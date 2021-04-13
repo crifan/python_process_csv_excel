@@ -1,0 +1,22 @@
+{
+  "title": "Python表格处理：CSV和Excel",
+  "description": "整理如何用Python进行表格处理，尤其是csv和excel文件的相关操作。先概述csv和Excel操作的相关的库有哪些以及各自大概特点；再去详细介绍，用自带的csv库去读取和创建保存csv文件，以及封装出常用函数；以及处理Excel的，好用的openpyxl库，其常用的功能点、部分常用功能已封装成独立函数、通过具体例子来说明如何使用、以及常见的一些问题；介绍了xlutils的xlrd和xlwt的下载和安装，基本的操作，比如新建excel文件、追加和写入新的数据等，以及常见问题及解决办法；概述了pandas的操作csv和excel的相关函数；介绍了用win32com.client去处理Excel的图表。",
+  "pluginsConfig": {
+    "autocover": {
+      "title": "Gitbook演示"
+    },
+    "github-buttons": {
+      "buttons": [
+        {
+          "repo": "python_process_csv_excel"
+        }
+      ]
+    },
+    "sitemap-general": {
+      "prefix": "https://book.crifan.com/gitbook/python_process_csv_excel/website/"
+    },
+    "toolbar-button": {
+      "url": "http://book.crifan.com/books/python_process_csv_excel/pdf/python_process_csv_excel.pdf"
+    }
+  }
+}
